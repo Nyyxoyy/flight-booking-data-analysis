@@ -136,7 +136,3 @@ flight-booking-data-analysis/
   - `npm run build`: Bundles React app for production
 
 ---
-
-## Contributing & License
-
-Contributions are welcome! Please open issues or PRs. This project is MIT licensed.
